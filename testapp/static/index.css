@@ -1,0 +1,54 @@
+body
+                {
+                        background-color: rgb(148, 145, 145);
+                }
+                header
+                {
+                        background-color: hotpink;
+                        text-align: center;
+                        color: green;
+                }
+                h2
+                {
+                        color: yellow;
+                }
+                h3
+                {
+                        color: rgb(188, 44, 44);
+                }
+                thead
+                {
+                        color:green;
+                }
+                tbody
+                {
+                        color: yellow;
+                }
+                table
+                {
+                        border:2px solid  orangered;
+                        font-size: x-large;
+                }
+                img
+                {
+                        border: 5px solid rgb(113, 113, 24);
+                        background-color: rgb(22, 22, 162);
+                }
+                p
+                {
+                        color: purple;
+                        font-size: x-large;
+                }
+                blockquote
+                {
+                        color: green;
+                        font-size: x-large;
+                }
+                ol
+                {
+                        color: red;
+                }
+                a
+                {
+                        color: brown;
+                }
